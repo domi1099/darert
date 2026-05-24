@@ -1,7 +1,7 @@
-fastapi==0.111.0
-uvicorn==0.29.0
-requests==2.31.0
-pydantic==2.7.0
-beautifulsoup4==4.12.3
-PySocks==1.7.1
-python-multipart==0.0.9
+fastapi>=0.115.0
+uvicorn>=0.32.0
+requests>=2.32.0
+pydantic>=2.10.0
+beautifulsoup4>=4.12.3
+PySocks>=1.7.1
+python-multipart>=0.0.12
